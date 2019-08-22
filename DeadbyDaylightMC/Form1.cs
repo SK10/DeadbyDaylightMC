@@ -390,7 +390,7 @@ namespace DeadbyDaylightMC
 
         private void label5_Click(object sender, EventArgs e)
         {
-
+            System.Diagnostics.Process.Start("https://github.com/SK10/DeadbyDaylightMC");
         }
     }
 }
